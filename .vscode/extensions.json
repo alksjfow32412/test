@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "nrwl.angular-console",
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+    "heybourn.headwind",
+    "aaron-bond.better-comments",
+    "formulahendry.auto-close-tag",
+    "streetsidesoftware.code-spell-checker"
+  ]
+}
