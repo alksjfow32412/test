@@ -25,9 +25,9 @@ you can help us in lots of ways which could be one of the following:
 we use specific workflow and repo which you should understand if you want to contribute to Excelente ( we appreciate your kindness ❤️), the most important concept that we use everyday is [**monorepo**](https://en.wikipedia.org/wiki/Monorepo),
 our monorepo have three main folders :
 
-- components, which is where Excelente components and all UI components live in
+- packages/components, which is where Excelente components and all UI components live in
 - docs, our official docs which use docusaurus
-- icons, which is where Excelente Icons and all related Icons stuff live in
+- packages/icons, which is where Excelente Icons and all related Icons stuff live in
 
 # pull request
 
