@@ -7,7 +7,7 @@ thank you for helping us to grow and for interest on how to contributing ️️�
 # Code of Conduct
 
 Excelente has adopted the [Contributor Covenant](https://www.contributor-covenant.org/) as its Code of Conduct, and we expect project participants to adhere to it.
-Please read [the full text](https://github.com/FOSSgeek/Excelente/blob/develop/CODE_OF_CONDUCT.md) so that you can understand what actions will and will not be tolerated.
+Please read [the full text](./CODE_OF_CONDUCT.md) so that you can understand what actions will and will not be tolerated.
 
 # how you can help Excelente
 
