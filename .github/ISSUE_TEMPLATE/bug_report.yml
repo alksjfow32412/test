@@ -54,6 +54,8 @@ body:
       label: "Browser"
       description: "The browser(s) this issue occurred with."
       placeholder: "Google Chrome 93"
+    validations:
+      required: true
   - type: "checkboxes"
     id: "operating-system"
     attributes:
