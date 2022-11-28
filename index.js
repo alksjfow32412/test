@@ -1,5 +1,5 @@
 console.log('hi')
 
-// this is comment 
+console.log('comment')
 
 var hi = 'hi'
